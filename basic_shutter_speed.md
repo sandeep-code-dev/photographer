@@ -19,7 +19,7 @@ Move the button to the **Left** it will slow down your shutter speed.
 
 Shutter speed is how fast the shutter opens and closes or length of how long the camera sensor is exposed to light when you click the shutter, it measured in seconds or fractions of seconds. such as 1/1000 second or 1/100 or 1/250 and so on.
 
-Shutter speed along with other points of exposure triangle play very important role in overall exposure as well motion blur and frezzing of motion in the image.
+Shutter speed along with other points of exposure triangle play very important role in overall exposure as well motion blur and freezing of motion in the image.
 
 A slower shutter speed such as 1/80 or 1/50 of second allow more light to reach your camera sensor resulting in brighter image however it will also allow more time in the scene captured resulting in motion blur. This can be helpful in creating movement or motion in the photograph. Such as running river or moving car.
 
